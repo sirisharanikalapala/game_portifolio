@@ -1,0 +1,35 @@
+html{
+    background-color:cadetblue;
+}
+h2{
+    font-family:cursive;
+}
+h1{
+   margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color:aqua;
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+footer {
+    margin-top: 5%;
+    color:aqua;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  .player1 {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+img {
+    width:200px;
+  }
